@@ -1,123 +1,191 @@
-<div align="center">
+<!-- ══════════════════════════════════════════════ HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sairaj%20Bandre&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descSize=20&descAlignY=60&descAlign=50" />
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sairaj+Bandre+%F0%9F%91%8B;ML+%26+AI+Engineer+in+Training;Python+%7C+Automation+%7C+Research;Building+things+that+think" alt="Typing SVG" /></a>
+<!-- ══════════════════════════════════════════════ TYPING SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=60&lines=Hey+there!+I'm+Sairaj+Bandre+%F0%9F%91%8B;MSc+Computer+Science+%40+UCD+Dublin+%F0%9F%8D%80;Machine+Learning+%7C+AI+%7C+Python+%F0%9F%A4%96;2+Published+Research+Papers+%F0%9F%93%84;Building+things+that+think+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SairajBandre16&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile Views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/sairajbandre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:sairajbandre16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-&nbsp;
-<a href="https://github.com/SairajBandre16"><img src="https://img.shields.io/github/followers/SairajBandre16?label=Follow&style=flat-square&color=6C63FF" alt="GitHub Followers"/></a>
-
-</div>
+<!-- ══════════════════════════════════════════════ METRICS BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SairajBandre16&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  &nbsp;
+  <a href="https://github.com/SairajBandre16?tab=followers">
+    <img src="https://img.shields.io/github/followers/SairajBandre16?label=Followers&style=for-the-badge&color=blueviolet&labelColor=1a1a2e" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-blueviolet?style=for-the-badge&labelColor=1a1a2e" />
+</p>
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
-```python
-sairaj = {
-    "🎓 education":  "MSc Computer Science @ University College Dublin",
-    "🤖 focus":      ["Machine Learning", "Applied AI", "NLP"],
-    "⚡ background": "RPA & Automation Engineer @ Ergode Ecommerce",
-    "📍 location":   "Dublin, Ireland 🍀",
-    "📚 research":   "2 published research papers",
-    "🎯 goal":       "ML Engineer | Applied AI Engineer | Data Scientist",
-    "🔭 currently":  "Building ML projects & exploring LLMs",
-}
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```js
+const sairaj = {
+  education:  "MSc Computer Science (Negotiated Learning)",
+  university: "University College Dublin 🍀",
+  location:   "Dublin, Ireland",
+  focus:      ["Machine Learning", "NLP", "Applied AI"],
+  background: "RPA & Automation Engineer @ Ergode Ecommerce",
+  research:   "2 Published Research Papers 📄",
+  seeking:    ["ML Engineer", "Applied AI Engineer", "Data Scientist"],
+  building:   "LLM-powered tools & ML experiments 🔭",
+  fuel:       "Coffee + Python = Magic ☕🐍",
+};
 ```
+
+<br clear="both"/>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sairajbandre">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sairajbandre16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SairajBandre16">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,r,html,css&theme=dark" />
+</p>
 
-**ML / AI**
+### 🤖 ML & AI
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**Automation & Tools**
+### ⚙️ Tools & Platforms
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [📰 News Summarizer](https://github.com/SairajBandre16/News-Summarizer) | Automated NLP pipeline that summarises daily news feeds | Python, NLP |
-| [📐 Scan to Measure](https://github.com/SairajBandre16/Scan-to-Measure) | Computer vision tool that extracts measurements from scanned documents | Python, CV |
-| [🕵️ Fake Instagram Detector](https://github.com/SairajBandre16/Fake-Instagram-Account-Detection) | Open-source tool to detect fake Instagram accounts | JavaScript |
-| [💳 Credit Card Fraud Detection](https://github.com/SairajBandre16/Creditcard-fraud) | ML model to detect fraudulent transactions | Python, ML |
-| [🌧️ RainWise](https://github.com/SairajBandre16/RainWise) | Weather intelligence web app | JavaScript |
-| [🍽️ MunchMap](https://github.com/SairajBandre16/MunchMap) | Location-based food discovery app | - |
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SairajBandre16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SairajBandre16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairajBandre16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SairajBandre16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairajBandre16&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairajBandre16&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SairajBandre16&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA"/>
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SairajBandre16&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SairajBandre16&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C084FC"/>
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-- 📄 **2 Published Research Papers**
-- 🤖 Built RPA & automation pipelines at scale for supply chain operations
-- 🎓 Pursuing MSc CS (Negotiated Learning) — tailored toward ML & AI
-- 🔓 Open source contributor with projects in NLP, CV, and fraud detection
+<p align="center">
+  <a href="https://github.com/SairajBandre16/News-Summarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SairajBandre16&repo=News-Summarizer&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SairajBandre16/Scan-to-Measure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SairajBandre16&repo=Scan-to-Measure&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SairajBandre16/Fake-Instagram-Account-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SairajBandre16&repo=Fake-Instagram-Account-Detection&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SairajBandre16/Creditcard-fraud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SairajBandre16&repo=Creditcard-fraud&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
+  </a>
+</p>
 
 ---
 
-## 📬 Let's Connect
+## 🐍 Contribution Snake
 
-<div align="center">
+> **Setup required** — see instructions below to activate the snake animation.
 
-I'm always open to collaborating on **ML / AI projects**, **research**, or **anything Python-related** 🐍
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairajbandre)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail)](mailto:sairajbandre16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SairajBandre16)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SairajBandre16/SairajBandre16/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SairajBandre16/SairajBandre16/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SairajBandre16/SairajBandre16/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
-<div align="center">
-<sub>⭐ From <a href="https://github.com/SairajBandre16">SairajBandre16</a> — built with ☕ and Python</sub>
-</div>
+## 💭 Quote
+
+<!-- <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>"The goal is to turn data into information, and information into insight."</i><br/>
+  <b>— Carly Fiorina</b>
+</p> -->
+
+---
+
+<!-- ══════════════════════════════════════════════ FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
